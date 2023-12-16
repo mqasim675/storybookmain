@@ -1,0 +1,36 @@
+.storybook-icon-button {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    border: 0;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1;
+    padding: 10px 20px;
+    border-radius: 20px; 
+  }
+  
+  .storybook-icon-button--primary {
+    background-color: #1ea7fd;
+    color: white;
+  }
+  
+  .storybook-icon-button--secondary {
+    background-color: #e0e0e0;
+    color: #333;
+  }
+  
+  .storybook-icon-button--small {
+    font-size: 12px;
+  }
+  
+  .storybook-icon-button--medium {
+    font-size: 14px;
+  }
+  
+  .storybook-icon-button--large {
+    font-size: 16px;
+  }
+  
+  
